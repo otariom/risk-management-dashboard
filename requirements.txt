@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+redis
+streamlit
+scipy
+statsmodels
+requests
+httpx
+pytest
