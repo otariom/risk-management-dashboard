@@ -5,7 +5,7 @@ import pandas as pd
 from src.common import config
 
 
-API_URL = "http://api:8000"
+API_URL = "http://localhost:8000"
 
 
 st.set_page_config(page_title="Risk Dashboard", layout="wide")
